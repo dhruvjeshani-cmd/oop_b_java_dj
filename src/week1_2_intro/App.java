@@ -6,7 +6,7 @@ public class App {
 
         System.out.println("Hello, World!");
 
-        String name  = "Sean";
+        String name  = "Dj";
         int age, b,c ;
         age = 25;
         double price1 = 123.147;
